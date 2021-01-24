@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.lineHeight": 0,
+    "editor.fontFamily": "FiraMono NF, 'Courier New', monospace",
+    "editor.suggestLineHeight": 0,
+    "editor.accessibilityPageSize": 1,
+    "debug.allowBreakpointsEverywhere": true,
+    "terminal.integrated.automationShell.linux": ""
+}
